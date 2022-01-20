@@ -13,12 +13,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachmaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachmaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=MyBatis&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=MyBatis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=maven&logoColor=white"/>
 </p>
 
 
